@@ -10,8 +10,7 @@ product. There is no need for any compilation.
 - Run the scene 3Dto2D_ViSPlugin.unity.
 
 - You should get a scene like this :
-
-![alt tag](https://raw.githubusercontent.com/aryamihirsingh/ViSP-UnityPlugin/images/Unity-screen.PNG)
+![Alt text](./images/Unity-screen.PNG?raw=true "Screen")
 
 - Input the X,Y,Z coordinates (comma seperated). 
 
